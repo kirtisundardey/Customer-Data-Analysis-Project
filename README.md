@@ -1,6 +1,6 @@
 # Customer Data Analysis Dashboard 
 **By Kirti Sundar Dey**  
-📊 *Internship Project at Datamites*
+📊 *Internship Project at  Rubixe – AI Solutions Company*
 
 ---
 
@@ -133,6 +133,6 @@ Top revenue-contributing categories:
 ## 📧 Contact  
 **👤 Kirti Sundar Dey**  
 💼 Data Analyst | Power BI | SQL | Excel 
-🎓 Internship Project by **Datamites**  
+🎓 Internship Project by **Rubixe – AI Solutions Company**  
 📍 Bengaluru, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirti-sundar-dey-0954122a5)
